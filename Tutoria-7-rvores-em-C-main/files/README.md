@@ -1,6 +1,6 @@
 # Tutoria 7 — Árvores Binárias de Busca
 
-**Aluno:** João Volkmann  
+**Aluno:** João Vitor da Silva 
 **Disciplina:** Estrutura de Dados  
 
 ---
